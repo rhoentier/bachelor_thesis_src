@@ -1,0 +1,5 @@
+opencv-python~=4.6.0.66
+python-can~=4.0.0
+uuid==1.30
+numpy~=1.23.2
+screeninfo~=0.8
